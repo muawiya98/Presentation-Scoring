@@ -1,7 +1,6 @@
 # Presentation-Scoring
-# Presenter Evaluation Project
 
-The Presenter Evaluation Project is a system designed to evaluate presenters based on three metrics: eye contact, body movement, hand movement, and facial expressions. This project aims to provide an objective assessment of a presenter's performance to help them improve their delivery skills.
+The Presentation Scoring Project is a system designed to evaluate presenters based on four metrics: eye contact, body movement, hand movement, and facial expressions. This project aims to provide an objective assessment of a presenter's performance to help them improve their delivery skills.
 
 ## Table of Contents
 
@@ -10,7 +9,6 @@ The Presenter Evaluation Project is a system designed to evaluate presenters bas
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -56,25 +54,3 @@ The facial expressions metric evaluates the presenter's facial expressions and e
 
 - Expressiveness: The presenter's ability to convey emotions and engagement through facial expressions.
 - Variety of expressions: The range and diversity of facial expressions displayed during the presentation.
-
-## Installation
-
-To use the Presenter Evaluation Project, follow these steps:
-
-1. Clone the project repository: git clone https://github.com/your-username/presenter-evaluation-project.git
-2. Install the required dependencies: pip install -r requirements.txt
-
-## Usage
-
-1. Prepare the presentation video file or live stream feed for evaluation.
-2. Run the evaluation script with the provided input: python evaluate.py --video <video_file>.
-3. Wait for the evaluation to complete.
-4. Review the generated evaluation report, which includes scores for eye contact, body movement, hand movement, and facial expressions.
-
-## Contributing
-
-Contributions to the Presenter Evaluation Project are welcome! If you have any suggestions, bug reports, or feature requests, please submit them through the issue tracker of the project repository.
-
-## License
-
-This project is licensed under the
