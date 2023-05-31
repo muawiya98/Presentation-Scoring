@@ -6,9 +6,6 @@ The Presentation Scoring Project is a system designed to evaluate presenters bas
 
 - [Introduction](#introduction)
 - [Metrics](#metrics)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
 
 ## Introduction
 
