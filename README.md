@@ -2,10 +2,12 @@
 
 The Presentation Scoring Project is a system designed to evaluate presenters based on four metrics: eye contact, body movement, hand movement, and facial expressions. This project aims to provide an objective assessment of a presenter's performance to help them improve their delivery skills.
 
+
 ## Table of Contents
 
 - [Introduction](#introduction)
 - [Metrics](#metrics)
+
 
 ## Introduction
 
@@ -20,6 +22,7 @@ The system focuses on four key metrics:
 3. Hand movement: Examines the presenter's hand gestures and movements. It identifies the types and frequency of hand movements used during the presentation.
 
 4. Facial expressions: Evaluates the presenter's facial expressions and emotions conveyed during the presentation. It detects and analyzes various facial expressions to assess the presenter's level of engagement and expression.
+
 
 ## Metrics
 
